@@ -15,7 +15,7 @@
     "cores": "^0.8.5",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^1.5.1",
     "mongoose": "^5.5.12",
